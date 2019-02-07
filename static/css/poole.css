@@ -70,6 +70,7 @@ body {
 a {
   color: #227bb9;
   text-decoration: none;
+  font-weight: bold;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
